@@ -1,0 +1,159 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul a:hover{
+    color: red;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+section {
+    padding: 20px;
+}
+
+section h2{font-size: 40px;}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.affiliate-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff9900; /* couleur orange, à ajuster selon vos préférences */
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.affiliate-btn2 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff3c00; /* couleur orange, à ajuster selon vos préférences */
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+ul li{text-decoration:none;}
+
+.affiliate-btn:hover {
+    background-color: #e68a00; /* couleur orange légèrement plus sombre au survol */
+}
+
+.affiliate-btn2:hover {
+    background-color: #f39378; /* couleur orange légèrement plus sombre au survol */
+}
+
+#niche{
+    text-align: center;
+}
+
+.hero {
+    background-image: url('pexels-li-sun-2294361.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff; /* Couleur de texte blanc, à ajuster selon votre conception */
+    text-align: center;
+    padding: 100px 0;
+}
+
+
+.hero2 {
+    background-image: url('pexels-ketut-subiyanto-4720781.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff; /* Couleur de texte blanc, à ajuster selon votre conception */
+    text-align: center;
+    padding: 100px 0;
+}
+
+.hero3 {
+    background-image: url('pexels-andrea-piacquadio-868483.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff; /* Couleur de texte blanc, à ajuster selon votre conception */
+    text-align: center;
+    padding: 100px 0;
+}
+
+.hero4 {
+    background-image: url('pexels-tima-miroshnichenko-6388464.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff; /* Couleur de texte blanc, à ajuster selon votre conception */
+    text-align: center;
+    padding: 100px 0;
+}
+
+.hero-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.hero h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+
+.cta-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff9900; /* couleur orange, à ajuster selon vos préférences */
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.cta-btn:hover {
+    background-color: #e68a00; /* couleur orange légèrement plus sombre au survol */
+}
+
+.niche2 p{
+    text-align: justify;
+    padding: 10px;
+    font-size: 25px;
+}
+
+#biography{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #cec7c7da;
+    text-align: center;
+   }
